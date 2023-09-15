@@ -29,7 +29,8 @@ github_username:  sato4390
 google_analytics: G-P6VGG0MKRS
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+#theme: minima
 plugins:
   - jekyll-feed
 
